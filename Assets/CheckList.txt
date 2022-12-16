@@ -1,0 +1,32 @@
+Base Layout:
+
+- Cell Shading
+
+- Pixelation Renderer
+	- layer mask
+	- pixelation variable
+
+- Smooth Third Person Camera Movement 
+	- Cinemachine
+	- Switching from camera to camera
+
+- Proximity Popup (press x to chat/open thing)
+	- Event Based
+
+- Custom Physics Engine
+	- Custom Gravity
+	- Custom Gravity Origin
+	- Terminal Velocity
+
+- third person player movement
+	- Acceleration / Deceleration Curves.
+	- Speed Handling
+	- Physics based Jumps
+
+- Finite State Machine Attack System
+
+- Pet Following (cat follows player)
+	- Pathfinding (A*)
+	- Custom Movement
+
+- Template Animator Script and Object
