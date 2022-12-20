@@ -20,8 +20,10 @@ Base Layout:
 
 - third person player movement
 	- Acceleration / Deceleration Curves.
-	- Speed Handling
+	- Speed Handling (sprinting, walking, jogging, etc.)
 	- Physics based Jumps
+	- Coyote Time
+	- double jump functionality
 
 - Finite State Machine Attack System
 
@@ -30,3 +32,6 @@ Base Layout:
 	- Custom Movement
 
 - Template Animator Script and Object
+
+- animation state machine
+	- idle (if not moving for 30 sec, play anim)
