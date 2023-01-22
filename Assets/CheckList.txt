@@ -10,8 +10,11 @@ Base Layout:
 	- Cinemachine
 	- Switching from camera to camera
 
-- Proximity Popup (press x to chat/open thing)
+- Proximity Events (press x to chat/open thing) ------------------------
 	- Event Based
+
+- Orbiting script ------------------------------------
+	- have any given GameObject orbit a position
 
 - Custom Physics Engine
 	- Custom Gravity
@@ -19,16 +22,22 @@ Base Layout:
 	- Terminal Velocity
 
 - third person player movement
+<<<<<<< Updated upstream
 	- Acceleration / Deceleration Curves.
 	- Speed Handling (sprinting, walking, jogging, etc.)
+=======
+	- Acceleration / Deceleration Curves
+	- Speed Handling
+>>>>>>> Stashed changes
 	- Physics based Jumps
 	- Coyote Time
 	- double jump functionality
 
 - Finite State Machine Attack System
+	- attack button, take in input from surrounding (like if on ground and in attack number 3 of the rotation) play designated attack 
 
 - Pet Following (cat follows player)
-	- Pathfinding (A*)
+	- Pathfinding
 	- Custom Movement
 
 - Template Animator Script and Object
