@@ -60,6 +60,7 @@ public class InventorySlot_UI : MonoBehaviour
         assignedInventorySlot?.ClearSlot();
         itemSprite.sprite = null;
         itemSprite.color = Color.clear;
+        borderSprite.color = Color.white;
         itemCount.text = "";
     }
 

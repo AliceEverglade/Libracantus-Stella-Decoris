@@ -25,6 +25,7 @@ public class InventoryItemData : ScriptableObject
         }
     }
     public Color RarityColor;
+    public List<Material> RarityMaterials;
     public enum itemTypes
     {
         Consumable,
